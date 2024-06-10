@@ -1,4 +1,5 @@
-# BCC DAO Client <a href="https://bccstudio.biz/"><img align="right" src="src\assets\logo.png" height="80px" /></a>
+<a href="https://bccstudio.biz/"><img align="right" src="src\assets\logo.png" height="80px" /></a>
+# BCC DAO Client
 
 
 ## Quick start
